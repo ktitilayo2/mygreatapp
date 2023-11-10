@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mygreatapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-10T02:36:17.440398471Z"
+    description: A Helm chart for Kubernetes
+    digest: 51ad6ae70eb5c6a104036edd6d413da9940e57f2db0182d6d8915d3b22fdb30c
+    name: mygreatapp
+    type: application
+    urls:
+    - mygreatapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-10T02:36:17.439848327Z"
